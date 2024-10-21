@@ -1,0 +1,31 @@
+HTML (Hypertext Markup Language)
+
+This is the structure and content of web pages.
+Learn how to create basic HTML elements like headings, paragraphs, links, images, etc.
+Free resources to start: W3Schools HTML tutorial, FreeCodeCamp HTML lessons
+
+
+CSS (Cascading Style Sheets)
+
+This is the styling and presentation of web pages.
+Learn how to apply styles like colors, fonts, layouts, and responsive design.
+Free resources: W3Schools CSS tutorial, Codecademy CSS course
+
+
+JavaScript
+
+This is the programming language that adds interactivity and dynamic behavior to web pages.
+Start with basic JavaScript syntax, variables, functions, and events.
+Free resources: W3Schools JavaScript tutorial, FreeCodeCamp JavaScript course
+
+
+
+I'd recommend focusing on these three core technologies first, as they form the foundation of frontend web development. As you progress, you can then explore frontend frameworks and libraries like React, Vue.js, or Angular, which build on these fundamentals.
+In terms of learning approach, I suggest:
+
+Start with tutorials and online courses to build the basics
+Practice by building small projects and websites
+Join online communities (e.g. Reddit /r/learnprogramming) to ask questions and get feedback
+Consider a structured learning path like FreeCodeCamp or The Odin Project
+
+The key is to keep practicing, experimenting, and building things. Web development is very hands-on, so the more you code, the faster you'll progress.
